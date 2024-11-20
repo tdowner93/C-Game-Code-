@@ -14,7 +14,7 @@ Round End: The ball reaches the hole, and the game ends with a summary of the sh
 
 Now, the ball will stay at the hole when the game ends, making the final display visually correct.
 
-# Limk for Code The Game 
+# Link for the Code 
 https://onlinegdb.com/s-tdt35zO
 
 
@@ -29,7 +29,7 @@ https://onlinegdb.com/s-tdt35zO
 
 
 # Works Cited 
-https://www.geeksforgeeks.org/c-cpp-program-to-implement-the-cricket-game/
+https://www.geeksforgeeks.org/c-cpp-program-to-implement-the-cricket-game/- Modified by Tanisha Downer
 
 
 
